@@ -1,0 +1,8 @@
+dao/IProductDAO.java
+ dao.IProductDAO
+controller/ProductServlet.java
+ controller.ProductServlet
+Model/Product.java
+ Model.Product
+dao/ProductDAO.java
+ dao.ProductDAO
